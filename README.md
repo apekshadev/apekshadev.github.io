@@ -1,2 +1,2 @@
 # apekshadev.github.io
-Master repo
+Project 1[sooth] - https://apekshadev.github.io/project1/
